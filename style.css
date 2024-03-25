@@ -119,9 +119,9 @@ a .fab {
 }
 
 .skills .column {
-  -ms-flex: 0 0 50%;
-  flex: 0 0 50%;
-  max-width: 50%;
+  -ms-flex: 0 0 66.6%;
+  flex: 0 0 66.6%;
+  max-width: 66.6%;
 }
 
 .skills .column ul, ul.job-description {
